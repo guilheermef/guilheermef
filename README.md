@@ -24,8 +24,7 @@
   
   
    
-  ![Snake animation](https://github.com/guilheermef
-/guilheermef
+  ![Snake animation](https://github.com/guilheermef/guilheermef
 /blob/output/github-contribution-grid-snake.svg)
 
 </div>
