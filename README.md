@@ -19,12 +19,4 @@
  
  
  
-<div> 
-  
-  
-  
-   
-  ![Snake animation](https://github.com/guilheermef/guilheermef
-/blob/output/github-contribution-grid-snake.svg)
 
-</div>
