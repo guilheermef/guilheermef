@@ -1,7 +1,7 @@
 ### Bem-vindo(a) ao perfil de Guilherme Franco 😁 ###
 
 <div>
-   <a href="https://github.com/guilheermef"/>
+   <a href="https://github.com/guilheermef">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilheermef
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilheermef
